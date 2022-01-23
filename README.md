@@ -13,7 +13,7 @@ Run the python files named "creatingcsvfile_for_task!&2.py" and "creatingcsvfile
   ### Do not change the name of these files
   ### Do not change the location of these files
 
-The names stored in the files are completely fictional except my own and sroe no personal infromation
+The names stored in the files are completely fictional except my own and they contain no personal infromation
 
 # Running the files
 
