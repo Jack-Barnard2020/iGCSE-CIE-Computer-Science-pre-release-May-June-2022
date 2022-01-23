@@ -104,7 +104,7 @@ def member_sign_up():
     date = get_current_date()
     volunteer = volunteer_sing_up()
     payed = pay_sing_up()
-    rows = [[full_name, volunteer, date, payed, payed],]
+    rows = [[full_name, volunteer, date, payed],]
     filename = "member_records.csv"
     with open(filename, 'a') as csvfile:
         csvwriter = csv.writer(csvfile) 
