@@ -11,6 +11,7 @@ This soloution comes with comments that explain what the code does.
 Run the python files named "creatingcsvfile_for_task!&2.py" and "creatingcsvfile_for_task3" in the terminal
 
   ### Do not change the name of these files
+  ### Do not change the location of these files
 
 The names stored in the files are completely fictional except my own and sroe no personal infromation
 
